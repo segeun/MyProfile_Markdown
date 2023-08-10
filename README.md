@@ -1,5 +1,5 @@
 
-<h1> I am a Developer </h1>
+<h1> iOS Engineer </h1>
 
 안녕하세요. iOS 엔지니어 최세근입니다.
 
