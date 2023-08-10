@@ -31,7 +31,7 @@
 
 ---
 
-<h2>Education &  Career</h2>
+<h2> Career &  Education </h2>
 <ul>
  <li>2023.05 ~ 2023.10</li>
  <p>멋쟁이 사자처럼  iOS 앱개발 과정 수료</p>
