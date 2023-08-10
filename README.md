@@ -1,7 +1,7 @@
 
 <h1> I am a Developer </h1>
 
-<h2>안녕하세요. iOS 엔지니어 최세근입니다.</h2>
+안녕하세요. iOS 엔지니어 최세근입니다.
 
 <h3>Contact</h3> 
 <ul>
