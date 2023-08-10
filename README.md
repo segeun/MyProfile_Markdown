@@ -31,7 +31,8 @@
 
 ---
 
-<h3>Education &  Career</h3> 
+<h2>Education &  Career</h2>
+<ul>
  <li>2023.05 ~ 2023.10</li>
  <p>멋쟁이 사자처럼  iOS 앱개발 과정 수료</p>
  <h5>-> swift문법 및 SWIFTUI를 배우고 익히며 수료 마지막에는 좋은 동료들과 멋진앱을 배포할 수 있었습니다. </h5>
@@ -43,7 +44,7 @@
  <p>xx대학교 미디어커뮤니케이션학과 졸업</p>
  <li>  ~2xxx.02</li>
  <p>xx고등학교 졸업</p>
- 
+</ul>
 
 
 <h2>Project</h2> 
